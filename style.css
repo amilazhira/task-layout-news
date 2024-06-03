@@ -141,6 +141,7 @@ nav .container {
 
 .container img {
 	width: 250px;
+  border-radius: 7px;
 }
 
 .container .right p {
